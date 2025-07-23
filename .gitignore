@@ -1,5 +1,4 @@
 .env
-jwt.js
 node_modules/
 test.js
 planning.txt
